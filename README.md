@@ -1,5 +1,7 @@
 # SOS Violência — Apache-2.0 public source-review release
 
+**English** | [Português](README.pt.md)
+
 Copyright 2026 **LANDI CONSULTORES, SU, LDA**.
 First-party contributions are licensed under [Apache License 2.0](LICENSE); see [NOTICE](NOTICE)
 and [third-party notices](THIRD_PARTY_NOTICES.md).
@@ -49,7 +51,6 @@ as authorized in PUBLICATION_APPROVAL.md. Never publish the original project or 
 [Security review](docs/SECURITY_REVIEW.md) · [Resolved decisions](MANUAL_REVIEW.md) · [Publication authorization](PUBLICATION_APPROVAL.md) ·
 [Verification](VERIFICATION.md)
 
-
 ## Publication authorization and redistribution scope
 The maintainer approves **only this sanitized, non-executable package** for a NEW public
 repository with clean history. Nothing has been published here. See PUBLICATION_APPROVAL.md.
@@ -58,7 +59,6 @@ original UI surfaces replace required imports. This release is not a buildable c
 private application. Remaining dependency vulnerabilities are disclosed, not cleared for use.
 Private vulnerability contact: security@landiconsultores.co.mz (dedicated security mailbox).
 No dependency implementation or font/icon binaries are bundled; third-party licenses remain theirs.
-
 
 ## Supabase preserved and final dependency remediation
 Supabase remains the intended primary backend/data/storage platform; it was not removed or replaced.
